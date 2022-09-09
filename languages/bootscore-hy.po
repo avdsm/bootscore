@@ -1,0 +1,408 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2021-08-24 07:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-09-09 14:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: Armenian\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: hy\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: single-sidebar-none.php:28 single-sidebar-left.php:31 single.php:29
+#: single-full-width-image.php:37
+msgid " by "
+msgstr "կողմից"
+
+#: inc/comment-list.php:46
+#, php-format
+msgid "%s <span class=\"says d-none\">says:</span>"
+msgstr "%s <span class=\"says d-none\">ասաց․</span>"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:38
+msgid ", "
+msgstr ","
+
+#: languages/plugin-translations.php:5
+msgid "/privacy-policy"
+msgstr "/privacy-policy"
+
+#: inc/comment-list.php:51
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s ժամը %2$s"
+
+#: functions.php:220
+msgid "404 Page"
+msgstr "404 Էջ"
+
+#. Description of the theme
+msgid ""
+"A powerful Bootstrap 5 WordPress Starter Theme with WooCommerce Support. <a "
+"href=\"https://bootscore.me/category/documentation/\">Documentation</a>. "
+"This theme gives you full control whatever you do and the full freedom to "
+"design whatever you want. It comes with a wide selection of category, page, "
+"post, author and archive templates as well as sidebar, header, footer and "
+"404 widgets. There are no customizer settings in the backend. All settings "
+"can only be made by touching the code. Some CSS, HTML, PHP and JS Skills are "
+"required to customize it."
+msgstr ""
+"Հզոր Bootstrap 5 WordPress Starter թեմա WooCommerce-ի աջակցությամբ: <a "
+"href=\"https://bootscore.me/category/documentation/\">Փաստաթղթեր</a>: Այս "
+"թեման ձեզ լիարժեք վերահսկում է այն, ինչ անում եք և լիակատար ազատություն՝ "
+"նախագծելու այն, ինչ ցանկանում եք: Այն գալիս է կատեգորիաների, էջի, գրառման, "
+"հեղինակի և արխիվի ձևանմուշների, ինչպես նաև կողագոտի, վերնագրի, ստորագրի և "
+"404 վիդջեթների լայն ընտրանիով: Հետին պլանում հարմարեցնողի կարգավորումներ "
+"չկան: Բոլոր կարգավորումները կարող են կատարվել միայն կոդը հպելով: Որոշ CSS, "
+"HTML, PHP և JS հմտություններ են պահանջվում այն հարմարեցնելու համար:"
+
+#: languages/plugin-translations.php:7
+msgid "Accept"
+msgstr "Ընդունել"
+
+#: header-woocommerce.php:135
+msgid "Account"
+msgstr "Հաշիվ"
+
+#: functions.php:126 functions.php:138 functions.php:150 functions.php:162
+#: functions.php:174 functions.php:186 functions.php:198 functions.php:210
+#: functions.php:222
+msgid "Add widgets here."
+msgstr "Ավելացրեք վիդջեթներ այստեղ:"
+
+#: languages/plugin-translations.php:2
+msgid "All"
+msgstr "Բոլորը"
+
+#: 404.php:27
+msgid "Back Home &raquo;"
+msgstr "Վերադառնալ &raquo;"
+
+#. Author of the theme
+msgid "Bastian Kreiter"
+msgstr "Բաստիան Կրեյթեր"
+
+#. Name of the template
+msgid "Blank with container"
+msgstr "Դատարկ կոնտեյներով"
+
+#. Name of the template
+msgid "Blank without container"
+msgstr "Դատարկ առանց կոնտոյներ"
+
+#. Name of the theme
+msgid "bootScore"
+msgstr "bootScore"
+
+#: comments.php:100
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+#: header-woocommerce.php:148
+msgid "Cart"
+msgstr "Զամբյուղ"
+
+#: comments.php:55 comments.php:73
+msgid "Comment navigation"
+msgstr "Մեկնաբանությունների ընտրություն"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Մեկնաբանությունները փակ են։"
+
+#. 1: number of comments, 2: post title
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s կարծիք &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s կարծիք &ldquo;%2$s&rdquo;"
+
+#. %s: post title
+#: comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "One Comment &ldquo;%s&rdquo;"
+msgstr "Մեկ կարծիք &ldquo;%s&rdquo;"
+
+#: languages/plugin-translations.php:4
+msgid ""
+"Cookies help us deliver our services. By using our services, you agree to "
+"our use of cookies."
+msgstr ""
+"Cookies-ը օգնում են մեզ մատուցել մեր ծառայությունները: Օգտագործելով մեր "
+"ծառայությունները՝ դուք համաձայնում եք մեր կողմից Cookies-ի օգտագործմանը:"
+
+#: woocommerce/checkout/form-shipping.php:35
+msgid "Delivery details"
+msgstr "Առաքման մանրամասները"
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/comment-list.php:29 inc/comment-list.php:53 inc/template-tags.php:139
+msgid "Edit"
+msgstr "Խմբագրել"
+
+#: comments.php:125 woocommerce/single-product-reviews.php:95
+msgid "Email* (will not be published)"
+msgstr "Email* (չի հրապարակվի)"
+
+#: functions.php:172
+msgid "Footer 1"
+msgstr "Ստորին 1"
+
+#: functions.php:184
+msgid "Footer 2"
+msgstr "Ստորին 2"
+
+#: functions.php:196
+msgid "Footer 3"
+msgstr "Ստորին 3"
+
+#: functions.php:208
+msgid "Footer 4"
+msgstr "Ստորին 4"
+
+#. Name of the template
+msgid "Full Width Image"
+msgstr "Ամբողջ լայնությամբ նկար"
+
+#. Name of the template
+msgid "Full width image"
+msgstr "Ամբողջ լայնությամբ նկար"
+
+#: woocommerce/myaccount/my-account-offcanvas.php:19
+msgid "Hello"
+msgstr "Բարեւ Ձեզ"
+
+#: woocommerce/myaccount/my-account-offcanvas.php:24
+msgid ""
+"Here you can view your recent orders, manage your shipping and billing "
+"addresses, and edit your password and account details."
+msgstr ""
+"Այստեղ դուք կարող եք դիտել ձեր վերջին պատվերները, կառավարել ձեր առաքման և "
+"վճարման հասցեները և խմբագրել ձեր գաղտնաբառը և հաշվի տվյալները:"
+
+#. URI of the theme
+msgid "https://bootscore.me/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://crftwrk.de"
+msgstr ""
+
+#: inc/template-tags.php:254
+msgid "Internet Explorer detected"
+msgstr "Հայտնաբերվել է Internet Explorer-ը"
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Թվում է, թե մենք չենք կարող գտնել այն, ինչ փնտրում եք: Թերևս որոնումը կարող "
+"է օգնել:"
+
+#. %s: post title
+#: comments.php:98 inc/template-tags.php:110
+msgid "Leave a Comment"
+msgstr "Թողնել կարծիք"
+
+#: inc/template-tags.php:167
+msgid "Leave a comment"
+msgstr "Թողնել կարծիք"
+
+#: comments.php:99
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Կարծիք %s մասին"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Ձախ կողագոտ"
+
+#: languages/plugin-translations.php:3
+msgid "Look what I found: "
+msgstr "Նայեք, թե ինչ եմ գտել․"
+
+#: header-woocommerce.php:54 header.php:54
+msgid "Menu"
+msgstr "Մենյու"
+
+#: languages/plugin-translations.php:6
+msgid "More Information"
+msgstr "Լրացուցիչ տեղեկություն"
+
+#: comments.php:121 woocommerce/single-product-reviews.php:89
+msgid "Name*"
+msgstr "Անունը*"
+
+#: comments.php:59 comments.php:77
+msgid "Newer Comments"
+msgstr "Նոր կարծիքներ"
+
+#. Name of the template
+msgid "No Sidebar"
+msgstr "Կողային գոտի չկա"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found for"
+msgstr "Ոչինչ չի գտնվել"
+
+#: comments.php:58 comments.php:76
+msgid "Older Comments"
+msgstr "Հին մեկնաբանություններ"
+
+#: inc/template-tags.php:256
+msgid "or"
+msgstr "կամ"
+
+#: 404.php:22
+msgid "Page not found."
+msgstr "Էջը չի գտնվել։"
+
+#: page-blank-with-container.php:21 page-sidebar-left.php:38
+#: page-sidebar-none.php:33 page.php:43 page-blank-without-container.php:21
+msgid "Pages:"
+msgstr "Էջեր․"
+
+#: functions.php:427
+msgid "Password"
+msgstr "Գախտաբառ"
+
+#: inc/comment-list.php:29
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:256
+msgid "Please use a modern and secure web browser like"
+msgstr "Խնդրում ենք օգտագործել ժամանակակից և ապահով վեբ բրաուզեր, ինչպիսին է"
+
+#: inc/template-tags.php:85
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "  %s"
+
+#: comments.php:101
+msgid "Post Comment"
+msgstr "Ուղարկել"
+
+#: author.php:68
+msgid "Read more"
+msgstr "Կարդալ ավելին"
+
+#: archive-sidebar-left.php:65 archive-equal-height.php:63 archive.php:63
+#: archive-equal-height-sidebar-right.php:62 category-equal-height.php:63
+#: category-sidebar-left.php:63 category.php:61 author-sidebar-left.php:71
+#: category-masonry.php:63 author-equal-height.php:69
+#: category-equal-height-sidebar-right.php:63
+#: author-equal-height-sidebar-right.php:68 author-masonry.php:69 index.php:81
+#: index.php:137 archive-masonry.php:63 template-parts/content-search.php:42
+msgid "Read more »"
+msgstr "Մանրամասն »"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Պատրա՞ստ եք հրապարակել ձեր առաջին գրառումը: <a href=\"%1$s\">Սկսեք "
+"այստեղից</a>."
+
+#: inc/comment-list.php:109
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+"Պահպանեք իմ անունը, email-ը և կայքը այս դիտարկիչում հաջորդ անգամ "
+"մեկնաբանելու համար:"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Որոնում"
+
+#. %s: search query.
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Որոնման արդյունքները: %s"
+
+#: woocommerce/loop/orderby.php:27
+msgid "Shop order"
+msgstr "Խանութի պատվեր"
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "Կողագոտի"
+
+#. Name of the template
+msgid "Sidebar left"
+msgstr "Ձախ կողագոտի"
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ներեցեք, բայց ոչինչ չի համապատասխանում ձեր որոնման տերմիններին: Խնդրում ենք "
+"կրկին փորձել մի քանի այլ հիմնաբառերով:"
+
+#: comments.php:103
+msgid "Start typing..."
+msgstr "Սկսեք գրել․․․"
+
+#: functions.php:428
+msgid "Submit"
+msgstr "Ներկայացնել"
+
+#. 1: list of tags.
+#: inc/template-tags.php:191
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Պիտակներ %1$s"
+
+#: inc/template-tags.php:255
+msgid "This website will offer limited functionality in this browser."
+msgstr "Այս կայքը կառաջարկի սահմանափակ գործառույթ այս դիտարկիչում:"
+
+#: inc/template-tags.php:256
+msgid "to display this site correctly."
+msgstr "այս կայքը ճիշտ ցուցադրելու համար:"
+
+#: woocommerce/cart/mini-cart.php:112
+msgid "To find out your shipping cost, please proceed to checkout."
+msgstr "Ձեր առաքման արժեքը պարզելու համար խնդրում ենք անցնել վճարման:"
+
+#: functions.php:160
+msgid "Top Footer"
+msgstr "Top Footer"
+
+#: functions.php:124
+msgid "Top Nav"
+msgstr "Top Nav"
+
+#: functions.php:136
+msgid "Top Nav Search"
+msgstr "Top Nav Որոնում"
+
+#: comments.php:130
+msgid "Website"
+msgstr "Կայք"
+
+#: inc/comment-list.php:58
+msgid "Your comment is awaiting moderation."
+msgstr "Ձեր մեկնաբանությունը սպասում հաստատման:"
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review...*"
+msgstr "Ձեր կարծիքը...*"
